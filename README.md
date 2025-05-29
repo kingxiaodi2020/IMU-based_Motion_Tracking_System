@@ -1,2 +1,2 @@
 # IMU-based_Motion_Tracking_System
-Semester Project@ CreateLAB
+Semester Project @ CREATELAB
